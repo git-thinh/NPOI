@@ -1,0 +1,11 @@
+G:\_CS\Office\npoi\sourceCode\NPOI\SS\bin\Debug\NPOI.SS.dll
+G:\_CS\Office\npoi\sourceCode\NPOI\SS\bin\Debug\NPOI.SS.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI\SS\bin\Debug\NPOI.Util.dll
+G:\_CS\Office\npoi\sourceCode\NPOI\SS\bin\Debug\NPOI.Util.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI\SS\bin\Debug\NPOI.Util.xml
+G:\_CS\Office\npoi\sourceCode\NPOI\SS\obj\Debug\SS.csprojResolveAssemblyReference.cache
+G:\_CS\Office\npoi\sourceCode\NPOI\SS\obj\Debug\NPOI.SS.Resource1.resources
+G:\_CS\Office\npoi\sourceCode\NPOI\SS\obj\Debug\SS.csproj.GenerateResource.Cache
+G:\_CS\Office\npoi\sourceCode\NPOI\SS\obj\Debug\SS.csproj.CoreCompileInputs.cache
+G:\_CS\Office\npoi\sourceCode\NPOI\SS\obj\Debug\NPOI.SS.dll
+G:\_CS\Office\npoi\sourceCode\NPOI\SS\obj\Debug\NPOI.SS.pdb

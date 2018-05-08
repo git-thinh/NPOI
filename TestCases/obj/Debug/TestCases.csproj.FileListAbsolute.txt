@@ -1,0 +1,2 @@
+G:\_CS\Office\npoi\sourceCode\NPOI\TestCases\obj\Debug\TestCases.csprojResolveAssemblyReference.cache
+G:\_CS\Office\npoi\sourceCode\NPOI\TestCases\obj\Debug\TestCases.csproj.CoreCompileInputs.cache

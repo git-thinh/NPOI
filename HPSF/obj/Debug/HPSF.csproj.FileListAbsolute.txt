@@ -1,0 +1,13 @@
+G:\_CS\Office\npoi\sourceCode\NPOI\HPSF\bin\Debug\NPOI.HPSF.XML
+G:\_CS\Office\npoi\sourceCode\NPOI\HPSF\bin\Debug\NPOI.HPSF.dll
+G:\_CS\Office\npoi\sourceCode\NPOI\HPSF\bin\Debug\NPOI.HPSF.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI\HPSF\bin\Debug\NPOI.POIFS.dll
+G:\_CS\Office\npoi\sourceCode\NPOI\HPSF\bin\Debug\NPOI.Util.dll
+G:\_CS\Office\npoi\sourceCode\NPOI\HPSF\bin\Debug\NPOI.POIFS.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI\HPSF\bin\Debug\NPOI.POIFS.xml
+G:\_CS\Office\npoi\sourceCode\NPOI\HPSF\bin\Debug\NPOI.Util.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI\HPSF\bin\Debug\NPOI.Util.xml
+G:\_CS\Office\npoi\sourceCode\NPOI\HPSF\obj\Debug\HPSF.csprojResolveAssemblyReference.cache
+G:\_CS\Office\npoi\sourceCode\NPOI\HPSF\obj\Debug\HPSF.csproj.CoreCompileInputs.cache
+G:\_CS\Office\npoi\sourceCode\NPOI\HPSF\obj\Debug\NPOI.HPSF.dll
+G:\_CS\Office\npoi\sourceCode\NPOI\HPSF\obj\Debug\NPOI.HPSF.pdb

@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTarGets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0881FB11-1FA3-414E-AD16-217E0ED2FCF0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NPOI.HPSF</RootNamespace>
+    <AssemblyName>NPOI.HPSF</AssemblyName>
+    <TarGetFrameworkVersion>v2.0</TarGetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <StartupObject>
+    </StartupObject>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>npoi.snk</AssemblyOriginatorKeyFile>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\NPOI.HPSF.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Release\NPOI.HPSF.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'NPOI.Tools|AnyCPU' ">
+    <OutputPath>bin\NPOI.Tools\</OutputPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.tarGets" />
+  <!-- To modify your build process, Add your task inside one of the tarGets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.tarGets.
+  <TarGet Name="BeforeBuild">
+  </TarGet>
+  <TarGet Name="AfterBuild">
+  </TarGet>
+  -->
+  <ItemGroup>
+    <Compile Include="Constants.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Wellknown\PropertyIDMap.cs" />
+    <Compile Include="Wellknown\SectionIDMap.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomProperty.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MutableProperty.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Property.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\POIFS\POIFS.csproj">
+      <Project>{EF33273D-BB36-43C6-A638-6FE0F5DF3ED9}</Project>
+      <Name>POIFS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\util\Util.csproj">
+      <Project>{ECCBDFDC-E8DF-4C13-8BC3-2457504EA9F0}</Project>
+      <Name>Util</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="VariantSupport.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UnsupportedVariantTypeException.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="VariantTypeException.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Variant.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="TypeWriter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="HPSFException.cs" />
+    <Compile Include="HPSFRuntimeException.cs" />
+    <Compile Include="IllegalPropertySetDataException.cs" />
+    <Compile Include="IllegalVariantTypeException.cs" />
+    <Compile Include="MarkUnsupportedException.cs" />
+    <Compile Include="MissingSectionException.cs" />
+    <Compile Include="NoPropertySetStreamException.cs" />
+    <Compile Include="ReadingNotSupportedException.cs" />
+    <Compile Include="Util.cs" />
+    <Compile Include="UnexpectedPropertySetTypeException.cs" />
+    <Compile Include="WritingNotSupportedException.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="NoFormatIDException.cs" />
+    <Compile Include="NoSingleSectionException.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PropertySet.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PropertySetFactory.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Section.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DocumentSummaryInformation.cs" />
+    <Compile Include="SummaryInformation.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="SpecialPropertySet.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomProperties.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MutablePropertySet.cs" />
+    <Compile Include="MutableSection.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Thumbnail.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="npoi.snk" />
+  </ItemGroup>
+</Project>

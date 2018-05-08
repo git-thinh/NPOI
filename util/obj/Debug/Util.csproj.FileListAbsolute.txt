@@ -1,0 +1,6 @@
+G:\_CS\Office\npoi\sourceCode\NPOI\util\bin\Debug\NPOI.Util.XML
+G:\_CS\Office\npoi\sourceCode\NPOI\util\bin\Debug\NPOI.Util.dll
+G:\_CS\Office\npoi\sourceCode\NPOI\util\bin\Debug\NPOI.Util.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI\util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+G:\_CS\Office\npoi\sourceCode\NPOI\util\obj\Debug\NPOI.Util.dll
+G:\_CS\Office\npoi\sourceCode\NPOI\util\obj\Debug\NPOI.Util.pdb

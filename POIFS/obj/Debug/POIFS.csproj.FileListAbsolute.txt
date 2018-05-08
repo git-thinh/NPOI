@@ -1,0 +1,10 @@
+G:\_CS\Office\npoi\sourceCode\NPOI\POIFS\bin\Debug\NPOI.POIFS.XML
+G:\_CS\Office\npoi\sourceCode\NPOI\POIFS\bin\Debug\NPOI.POIFS.dll
+G:\_CS\Office\npoi\sourceCode\NPOI\POIFS\bin\Debug\NPOI.POIFS.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI\POIFS\bin\Debug\NPOI.Util.dll
+G:\_CS\Office\npoi\sourceCode\NPOI\POIFS\bin\Debug\NPOI.Util.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI\POIFS\bin\Debug\NPOI.Util.xml
+G:\_CS\Office\npoi\sourceCode\NPOI\POIFS\obj\Debug\POIFS.csprojResolveAssemblyReference.cache
+G:\_CS\Office\npoi\sourceCode\NPOI\POIFS\obj\Debug\POIFS.csproj.CoreCompileInputs.cache
+G:\_CS\Office\npoi\sourceCode\NPOI\POIFS\obj\Debug\NPOI.POIFS.dll
+G:\_CS\Office\npoi\sourceCode\NPOI\POIFS\obj\Debug\NPOI.POIFS.pdb

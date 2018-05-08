@@ -1,0 +1,13 @@
+G:\_CS\Office\npoi\sourceCode\NPOI\DDF\bin\Debug\NPOI.DDF.XML
+G:\_CS\Office\npoi\sourceCode\NPOI\DDF\bin\Debug\NPOI.DDF.dll
+G:\_CS\Office\npoi\sourceCode\NPOI\DDF\bin\Debug\NPOI.DDF.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI\DDF\bin\Debug\Ionic.Zip.dll
+G:\_CS\Office\npoi\sourceCode\NPOI\DDF\bin\Debug\NPOI.SS.dll
+G:\_CS\Office\npoi\sourceCode\NPOI\DDF\bin\Debug\NPOI.Util.dll
+G:\_CS\Office\npoi\sourceCode\NPOI\DDF\bin\Debug\NPOI.SS.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI\DDF\bin\Debug\NPOI.Util.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI\DDF\bin\Debug\NPOI.Util.xml
+G:\_CS\Office\npoi\sourceCode\NPOI\DDF\obj\Debug\DDF.csprojResolveAssemblyReference.cache
+G:\_CS\Office\npoi\sourceCode\NPOI\DDF\obj\Debug\DDF.csproj.CoreCompileInputs.cache
+G:\_CS\Office\npoi\sourceCode\NPOI\DDF\obj\Debug\NPOI.DDF.dll
+G:\_CS\Office\npoi\sourceCode\NPOI\DDF\obj\Debug\NPOI.DDF.pdb
